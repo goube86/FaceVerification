@@ -1,0 +1,6 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\FaceVerification.Domain\FaceVerification.Domain.csproj" />
+  </ItemGroup>
+</Project>

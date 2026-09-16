@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/FaceVerification.Api/FaceVerification.Api.csproj" />
+    <Project Path="src/FaceVerification.Application/FaceVerification.Application.csproj" />
+    <Project Path="src/FaceVerification.Domain/FaceVerification.Domain.csproj" />
+    <Project Path="src/FaceVerification.Infrastructure/FaceVerification.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/FaceVerification.IntegrationTests/FaceVerification.IntegrationTests.csproj" />
+    <Project Path="tests/FaceVerification.ModelTests/FaceVerification.ModelTests.csproj" />
+    <Project Path="tests/FaceVerification.UnitTests/FaceVerification.UnitTests.csproj" />
+  </Folder>
+</Solution>

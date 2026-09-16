@@ -1,0 +1,15 @@
+bin/
+obj/
+.vs/
+.idea/
+.vscode/
+.env
+.run/
+TestResults/
+*.user
+*.suo
+*.pfx
+*.snupkg
+face-verification-results*.csv
+tests/FaceVerification.ModelTests/Fixtures/Local/*
+!tests/FaceVerification.ModelTests/Fixtures/Local/README.md

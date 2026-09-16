@@ -1,0 +1,12 @@
+{
+  "name": "YuNet",
+  "version": "2023mar",
+  "file": "model.onnx",
+  "sha256": "8F2383E4DD3CFBB4553EA8718107FC0423210DC964F9F4280604804ED2552FA4",
+  "license": "MIT",
+  "source": "https://github.com/opencv/opencv_zoo/tree/main/models/face_detection_yunet",
+  "inputWidth": 640,
+  "inputHeight": 640,
+  "colorOrder": "BGR",
+  "embeddingSize": 0
+}
